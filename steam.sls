@@ -1,5 +1,5 @@
-ms-r-open:
-  '3.4.1':
+steam:
+  'latest':
     installer: 'https://steamcdn-a.akamaihd.net/client/installer/SteamSetup.exe'
     full_name: Steam
     locale: en_US
