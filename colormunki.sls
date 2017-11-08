@@ -1,5 +1,5 @@
 colormunki:
-  '1.2.4':.
+  '1.2.4':
     installer: 'http://downloads.xrite.com/downloads/software/ColorMunki/Photo/v1.2.4/win/ColorMunkiPhotoSetup.exe'
     full_name: ColorMunki Photo
     locale: en_US
