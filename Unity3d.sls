@@ -4,6 +4,6 @@ unity3d:
     full_name: unity3d
     locale: en_US
     reboot: False
-    install_flags: '/S'
-    uninstaller: '%ProgramFiles%/Unity/Editor/Uninstall.exe'
+    install_flags: '/D=D:\Program Files\Unity /S'
+    uninstaller: 'D:\ProgramFiles/Unity/Editor/Uninstall.exe'
     uninstall_flags: '/S'
