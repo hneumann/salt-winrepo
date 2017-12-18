@@ -10,7 +10,7 @@ notepad++:
     installer: 'https://notepad-plus-plus.org/repository/7.x/7.5.1/npp.7.5.1.Installer.exe'
     uninstaller: '%ProgramFiles(x86)%/Notepad++/uninstall.exe'
     {% endif %}
-    install_flags: '/S'
+    install_flags: '/D=D:\Program Files\notepad /S'
     uninstall_flags: '/S'
     msiexec: False
     locale: en_US
